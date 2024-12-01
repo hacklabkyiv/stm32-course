@@ -1,1 +1,1 @@
-[Notes: how to use Timer in PWM mode with DMA](Lesson_5_Timers_and_DMA.md)
+[Notes: how to use ADC in Multichannel mode with DMA](Lesson_5_ADC_and_DMA.md)
